@@ -13,4 +13,4 @@ Mariano_Murasawa_2003_A new coincident index of business cycles based on monthly
 https://sjkoopman.net/SJresearch.html 
 <br> https://aruoba.econ.umd.edu/
 <br> https://www.princeton.edu/~mwatson/
-https://stock.scholars.harvard.edu/
+<br> James Stock https://stock.scholars.harvard.edu/
