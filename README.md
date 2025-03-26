@@ -14,3 +14,4 @@ https://sjkoopman.net/SJresearch.html
 <br> https://aruoba.econ.umd.edu/
 <br> https://www.princeton.edu/~mwatson/
 <br> James Stock https://stock.scholars.harvard.edu/
+<br> Eric Ghysels https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=98666
