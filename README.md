@@ -12,6 +12,16 @@ Mariano_Murasawa_2003_A new coincident index of business cycles based on monthly
 <br> OxMetrics Software https://www.doornik.com/download.html
 <br> OxMterics learning materials https://www.doornik.com/doc/ox/index.html?content=https://www.doornik.com/doc/ox/oxsumry.html
 
+#### The Sparse Dynamic Factor Model: A Regularised Quasi-Maximum Likelihood Approach
+https://stat.paperswithcode.com/paper/sparsedfm-an-r-package-to-estimate-dynamic
+<br> with R code in https://github.com/mosleyl/sparseDFM/blob/main/R/SparseDFM.R
+<br> we could find examples in the file of 'vignettes' in above github website 
+
+
+#### Deep State Space Models for Time Series Forecasting
+https://proceedings.neurips.cc/paper_files/paper/2018/file/5cf68969fb67aa6082363a6d4e6468e2-Paper.pdf
+<br> code from https://github.com/awslabs/gluonts
+
 #### Scholar Page 
 https://sjkoopman.net/SJresearch.html 
 <br> https://aruoba.econ.umd.edu/
