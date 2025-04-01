@@ -13,7 +13,7 @@ Mariano_Murasawa_2003_A new coincident index of business cycles based on monthly
 <br> OxMterics learning materials https://www.doornik.com/doc/ox/index.html?content=https://www.doornik.com/doc/ox/oxsumry.html
 
 #### The Sparse Dynamic Factor Model: A Regularised Quasi-Maximum Likelihood Approach
-https://stat.paperswithcode.com/paper/sparsedfm-an-r-package-to-estimate-dynamic
+sparseDFM: An R Package to Estimate Dynamic Factor Models with Sparse Loadings https://stat.paperswithcode.com/paper/sparsedfm-an-r-package-to-estimate-dynamic
 <br> with R code in https://github.com/mosleyl/sparseDFM/blob/main/R/SparseDFM.R
 <br> we could find examples in the file of 'vignettes' in above github website 
 
