@@ -43,5 +43,8 @@ https://sjkoopman.net/SJresearch.html
 <br> Eric Ghysels https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=98666
 <br> Matteo Barigozzi https://www.barigozzi.eu/Home.html
 
+## 补充资料
+FNETS: Factor-adjusted Network Estimation and Forecasting for High-dimensional Time Series https://www.youtube.com/watch?v=U4ZOqEp9zDc
+
 ### APpendix 
 线性代数：参考 赵德修 编《线性代数》 from 图书馆
