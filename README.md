@@ -12,9 +12,15 @@ downloaded from https://github.com/statsmodels/statsmodels/blob/main/statsmodels
 
 ### Mixed Frequency of month and quraterly 
 #### MM03
+##### Oxmetrics
 Mariano_Murasawa_2003_A new coincident index of business cycles based on monthly and quarterly series
 <br> OxMetrics Software https://www.doornik.com/download.html
 <br> OxMterics learning materials https://www.doornik.com/doc/ox/index.html?content=https://www.doornik.com/doc/ox/oxsumry.html
+##### python
+qdp_qoq.csv 数据收集来自于中国统计局网站
+宏观月度数据Verison20.xlsx 数据收集来自于CEIC，利用Data_monthDATAprocessing.ipynb进行数据处理，得到 “宏观月度数据Verison20_仅时间行_清洗后_月末索引_abbr.xlsx”
+<br> 通过 “Data_混频数据整合.ipynb” 整合季度与月度数据，得到“宏观月度数据Verison20_仅时间行_清洗后_月末索引_abbr_with_quarterly.xlsx”
+<br> 模型“maximum likelihood factor analysis(ML-FA)” by MM2003  
 
 ### Estimation 
 #### Expectation Maximization
